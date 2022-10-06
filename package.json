@@ -3,7 +3,7 @@
   "name": "raycast-ios-hig",
   "title": "iOS Human Interface Guidelines",
   "description": "Shows you the iOS HIG's info for quick reference",
-  "icon": "command-icon.png",
+  "icon": "icon.png",
   "author": "eliperkins",
   "categories": [
     "Developer Tools",
